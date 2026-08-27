@@ -25,6 +25,8 @@ services:
         # Browsers hit this from the host machine, so it must be a URL the
         # *browser* can reach (the published backend port below), not the
         # in-network "backend" service name.
+        # Set via the root .env file (copy .env.example), which Compose
+        # loads automatically - or override inline per-command if needed.
         NEXT_PUBLIC_API_BASE: ${NEXT_PUBLIC_API_BASE:-http://localhost:5000/api}
     container_name: rockbridge-frontend
     ports:

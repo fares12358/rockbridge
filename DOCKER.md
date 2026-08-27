@@ -11,6 +11,11 @@ a local Mongo instance, so Docker only needs to reach the internet, not run a DB
 - `backend/.env` filled in (see `backend/README.md`) — it's read at container
   start via `env_file` and is **never** copied into the image or baked into a
   layer
+- (Optional) a root `.env` — copy `.env.example` to `.env`. This is a
+  **different file** from `backend/.env`: it's only read by `docker compose`
+  itself, for `${VAR}` substitution inside `docker-compose.yml` (currently
+  just `NEXT_PUBLIC_API_BASE` and the port overrides below) — it has nothing
+  to do with the backend's runtime environment.
 
 ## Quick start
 
@@ -54,19 +59,32 @@ deletes anything under `uploads/`.
 
 `NEXT_PUBLIC_API_BASE` is inlined into the Next.js client bundle at **build**
 time (Next.js does this for all `NEXT_PUBLIC_*` vars), so it can't be changed
-by just restarting the container — it has to be passed as a build arg:
+by just restarting the container — it has to be set before a (re)build.
+
+The recommended way is the root `.env` file mentioned in Prerequisites —
+`docker compose` loads it automatically, no flags needed:
 
 ```bash
-# Point the frontend at a different backend, then rebuild:
+cp .env.example .env
+# edit .env, then:
+docker compose build frontend
+docker compose up -d frontend
+```
+
+For a one-off override without touching `.env`, an inline var still works
+and takes precedence:
+
+```bash
 NEXT_PUBLIC_API_BASE=http://localhost:5050/api docker compose build frontend
 docker compose up -d frontend
 ```
 
-Default (no override) is `http://localhost:5000/api` — the backend's
-published port on the host, since the browser (not the frontend container)
-is what actually calls this URL. Note this is deliberately different from
-`frontend/lib/api.js`'s own fallback (the production URL) — the compose
-default targets a locally-running backend instead.
+Default (if neither `.env` nor an inline var sets it) is
+`http://localhost:5000/api` — the backend's published port on the host,
+since the browser (not the frontend container) is what actually calls this
+URL. Note this is deliberately different from `frontend/lib/api.js`'s own
+fallback (the production URL) — the compose default targets a
+locally-running backend instead.
 
 ## Common commands
 
