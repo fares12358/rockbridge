@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Disallow: /dashboard/
+Sitemap: https://rockbridge.store/sitemap.xml
+Host: https://rockbridge.store

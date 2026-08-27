@@ -1,0 +1,295 @@
+{
+  "title": "Connecting Your Business To The World Through ROCK BRIDGE",
+  "site": {
+    "name": "ROCK BRIDGE"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "pages": "Pages",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "quote": "Contact us"
+  },
+  "hero": {
+    "tagline": "ROCK BRIDGE - Import & Export",
+    "cta": "Our Service",
+    "subtitle": "We connect your business with global markets through ROCK BRIDGE solutions.",
+    "description": "Import & sourcing solutions from China to Saudi Arabia with reliable delivery and competitive pricing. Request an offer now."
+  },
+  "whatsapp": {
+    "title": "Contact Us on WhatsApp",
+    "description": "Have questions or need assistance? Chat with our support team on WhatsApp for fast help.",
+    "cta": "Chat on WhatsApp"
+  },
+  "servicesSection": {
+    "heading": "Services",
+    "title": "Services We Offer",
+    "subheading": "We provide a wide range of services to support your business needs.",
+    "placeholderImage": [
+      "/images/im4.jpg",
+      "/images/im5.jpg",
+      "/images/im6.jpg",
+      "/images/im7.jpg",
+      "/images/im8.jpg",
+      "/images/im9.jpg",
+      "/images/im10.jpg",
+      "/images/im11.jpg",
+      "/images/im12.jpg",
+      "/images/im13.jpg",
+      "/images/im14.jpg",
+      "/images/im15.jpg"
+    ],
+    "cards": [
+      {
+        "title": "Tests and Quality Measurement",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Production lines and spare parts",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Quotations and Consultations",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Providing resources and inspecting goods",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Project and tender insurance",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Finishing and furnishing homes, hotels and companies",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Providing commercial agencies",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Manufacturing brands and trademark",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Hotel reservations",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Reception, transportation and translation",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "Insurance of goods and shipping",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      },
+      {
+        "title": "All commercial mediation services",
+        "description": "Professional service to support the process, ensuring compliance, quality and timely delivery."
+      }
+    ]
+  },
+  "who": {
+    "heading": "Who Are We?",
+    "company": "ROCK BRIDGE Import and Export Company",
+    "description": "ROCK BRIDGE is a trusted Saudi company with operational headquarters in China, specializing in commercial mediation and sourcing between China and the Gulf region. We act as the client's eyes on the ground in China through factory inspections, quality reviews, and ensuring that products meet Saudi and Gulf standards before shipment.\n\nWe rely on a strong network of trusted factories and partners, in addition to logistics collaborations with major shipping companies, ensuring fast, accurate, and reliable sourcing operations from origin to final destination.\n\nWe are committed to transparency, quality, and strict adherence to delivery schedules, and we consider our clients' success a direct extension of our own.",
+    "visionTitle": "Our Vision",
+    "visionText": "To become the leading commercial entity connecting Chinese markets with Saudi Arabia and the Gulf region by facilitating import operations, providing trusted factories and companies, and building real bridges that strengthen trade between both sides. We also aim to attract companies and investors to enter the Saudi market in alignment with Vision 2030 through long-term partnerships built on trust and professionalism.",
+    "messageTitle": "Our Message",
+    "messageText": "To provide integrated and reliable import and sourcing solutions, including inspection, quality assurance, direct supervision, and precise follow-up from within China to ensure our clients receive the best products and services with a safe, fast, and sustainable experience.",
+    "experienceCount": "We have extensive expertise built through dozens of successful projects and close collaboration with partners across various sectors, enabling us to deliver exceptional and effective solutions.",
+    "experienceLabel": "Years of Experience",
+    "headquartersLabel": "Headquarters",
+    "headquartersValue": "Saudi Arabia",
+    "operating": "Operating Locally & Internationally",
+    "image": "/images/poster.png"
+  },
+  "about": {
+    "heading": "About Us",
+    "title": "Reliability And Efficiency at ROCK BRIDGE",
+    "description": "Tristique pharetra nunc sed amet viverra non non libero. Eget turpis ac pretium amet dapibus nullam at bibendum. ROCK BRIDGE focuses on delivering reliable and efficient services that meet international standards.",
+    "quote": "Ut interdum in lacus vitae. Mauris non nibh non mauris eu velit egestas fames. Nisi in id consectetur etiam dignissim sed."
+  },
+  "distinguish": {
+    "heading": "What distinguishes us",
+    "title": "Why choose ROCK BRIDGE",
+    "items": [
+      {
+        "key": "prices",
+        "title": "Competitive Prices",
+        "text": "Competitive pricing and guaranteed quality through a wide network of trusted factories and global markets, with our commitment to the best cost-to-value balance."
+      },
+      {
+        "key": "speed",
+        "title": "Speed",
+        "text": "Fast execution for all supply stages — from order to delivery — thanks to smart logistics management and continuous coordination with suppliers and shipping lines."
+      },
+      {
+        "key": "experience",
+        "title": "Experience",
+        "text": "Over 15 years of experience in technical regulations and regulatory legislation of target countries, ensuring smooth customs clearance and speedy procedures."
+      },
+      {
+        "key": "neutrality",
+        "title": "Neutrality",
+        "text": "We act as a neutral commercial intermediary working exclusively for the client, guaranteeing full transparency and credibility at every step of the purchase and supply process."
+      },
+      {
+        "key": "compliance",
+        "title": "Compliance",
+        "text": "We perform careful reviews to ensure products meet local and governmental specifications, guaranteeing that your goods arrive with the highest standards of quality and compliance."
+      }
+    ]
+  },
+  "coreValues": {
+    "heading": "Core Values",
+    "title": "Our Principles",
+    "items": [
+      {
+        "title": "Integrity",
+        "text": "We operate with complete transparency and are honest in our dealings."
+      },
+      {
+        "title": "Accuracy",
+        "text": "We are meticulous when approving applications to ensure all details are correct and meet specifications."
+      },
+      {
+        "title": "Leadership",
+        "text": "We keep pace with the latest developments and changes in global trade systems to provide the best solutions."
+      }
+    ]
+  },
+  "tourism": {
+    "heading": "Tourism",
+    "title": "A Unique Tourism Experience to China",
+    "text": "Tourism is a concept and an innovation. China is not just a destination. It is a story you tell yourself, a journey through five thousand years of history and civilization, blended with the latest modern technologies. We offer it as a unique tourism experience that combines authenticity and modernity, nature and cities, tranquility and excitement. With us, linguistic, cultural and geographical challenges disappear, in accordance with strategic partnerships and the Kingdom of Saudi Arabia’s Vision 2023."
+  },
+  "why": {
+    "heading": "Why Choose Us",
+    "title": "Ensuring Superior Solutions at ROCK BRIDGE For Optimal Business Performance",
+    "items": [
+      {
+        "key": "network",
+        "title": "Trusted Factory Network",
+        "text": "Certified factory network in China and the Gulf."
+      },
+      {
+        "key": "incoterms",
+        "title": "Clear Customs & Incoterms",
+        "text": "Clear customs estimates and Incoterms provided before execution."
+      },
+      {
+        "key": "transit",
+        "title": "Competitive Transit Times",
+        "text": "Competitive shipping times with real-time tracking and active monitoring."
+      },
+      {
+        "key": "compliance",
+        "title": "Specification Compliance",
+        "text": "Commitment to specification matching and required testing to ensure quality and conformity."
+      }
+    ]
+  },
+  "contactCTA": {
+    "title": "Discuss Your Shipping Needs",
+    "subtitle": "With Our Experts!",
+    "text": "Tristique pharetra nunc sed amet viverra non non libero. Eget turpis ac pretium amet dapibus nullam at bibendum.",
+    "cta": "Contact Us"
+  },
+  "newsletter": {
+    "title": "Subscribe Our Newsletter To Get The Latest News From Us!",
+    "subtitle": "Sign up and stay updated with our latest offers and company news.",
+    "placeholder": "Your Email",
+    "subscribe": "Subscribe"
+  },
+  "footer": {
+    "about": "ROCK BRIDGE - Commercial mediation and export/import solutions tailored for global markets.",
+    "quickLinks": "Quick Link",
+    "ourService": "Our Service",
+    "contact": {
+      "consultations": "Consultations",
+      "phone": "+8613711197481",
+      "support": "Support",
+      "email": "Window.ksa30@gmail.com"
+    },
+    "copyright": "ROCK BRIDGE © {year}. All rights reserved."
+  },
+  "common": {
+    "readMore": "More About Us",
+    "imagePlaceholder": "Image Placeholder",
+    "phone": "Phone"
+  },
+  "howWeWork": {
+    "title": "How We Work",
+    "subtitle": "5 illustrated steps to move your shipments",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Request a Quote",
+        "desc": "Send us details about your cargo and requirements.",
+        "icon": "request"
+      },
+      {
+        "id": 2,
+        "title": "HS Code Review",
+        "desc": "We review product HS codes and compliance requirements.",
+        "icon": "search"
+      },
+      {
+        "id": 3,
+        "title": "Pricing & Incoterms",
+        "desc": "Receive pricing and recommended Incoterms for your shipment.",
+        "icon": "price"
+      },
+      {
+        "id": 4,
+        "title": "Ship / Inspect",
+        "desc": "We handle shipment execution and inspection as needed.",
+        "icon": "ship"
+      },
+      {
+        "id": 5,
+        "title": "Delivery & Clearance",
+        "desc": "Final delivery and customs clearance handled end-to-end.",
+        "icon": "delivery"
+      }
+    ]
+  },
+  "marketsSection": {
+    "heading": "Markets & Sectors",
+    "intro": "We possess extensive experience accumulated through dozens of successful projects and close collaboration with partners from various sectors, enabling us to deliver distinguished and effective solutions in the Chinese market and the GCC markets. We have built an integrated network of factories, suppliers, and logistics partners, allowing for efficient and secure importing and supplying to connect the East with the West.",
+    "marketsHeading": "Markets",
+    "bridgeTitle": "ROCK BRIDGE",
+    "bridgeSubtitle": "Connecting East & West",
+    "markets": [
+      {
+        "key": "china",
+        "title": "🇨🇳 China",
+        "description": "Direct cooperation with certified factories and trusted suppliers for production lines, spares and raw materials."
+      },
+      {
+        "key": "saudi",
+        "title": "🇸🇦 Saudi Arabia",
+        "description": "Serving the Saudi market through a strong local partner network across trade, construction, consumer goods and government projects."
+      },
+      {
+        "key": "gcc",
+        "title": "🌐 GCC Markets",
+        "description": "Coverage across GCC with strategic suppliers and logistics partners to ensure fast, compliant supply operations."
+      }
+    ],
+    "sectorsHeading": "Sectors We Serve",
+    "sectors": [
+      "Automotive spare parts supply",
+      "Contract manufacturing (OEM)",
+      "E-commerce and wholesale supply",
+      "Production lines & manufacturing",
+      "Logistics & transportation",
+      "Brand development & commercial agencies",
+      "Business & tourism trips to China"
+    ]
+  }
+}

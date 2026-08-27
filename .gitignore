@@ -1,0 +1,17 @@
+# The root of this workspace is not itself a git repo today (backend/ and
+# frontend/ each have their own git history/remote), but this file exists as
+# a safety net in case a root-level repo is ever initialized here.
+
+node_modules/
+
+# env files - never commit real credentials
+.env
+.env.*
+!.env.*.example
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+AUDIT_REPORT.md
+CLAUDE.md

@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log*
+.env
+.env.*
+!.env.*.example
+uploads
+.git
+AUDIT_REPORT.md
+README.md
